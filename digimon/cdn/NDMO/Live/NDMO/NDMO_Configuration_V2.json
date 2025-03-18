@@ -7,12 +7,12 @@
         }
     },
     "PatchInfo": {
-        "DownloadUrl": "https://thales201212.github.io/backend//UpdatePatch/",
+        "DownloadUrl": "https://acedragonx.github.io/backend//UpdatePatch/",
         "MinPatchVersion": 1,
         "PatchVersion": 3
     },
     "LanuncherInfo": {
-        "DownloadPath": "https://thales201212.github.io/backend//Launcher/",
+        "DownloadPath": "https://acedragonx.github.io/backend//Launcher/",
         "CurrentVersion": 310,
         "ExeFileName": "DMOLauncher",
         "RunExeFileName": "DMOLauncher",
@@ -72,7 +72,7 @@
         ]
     },
     "UMInfo": {
-        "DownloadPath": "https://thales201212.github.io/backend//UpdateManager/",
+        "DownloadPath": "https://acedragonx.github.io/backend//UpdateManager/",
         "CurrentVersion": 8,
         "ExeFileName": "UpdateManager.exe",
         "RunExeFileName": "Neon Digiverse.exe",
@@ -103,14 +103,14 @@
             }
         ]
     },
-    "RumbleConfig": "https://thales201212.github.io/backend/digimon/cdn/rumble/live/RumbleConfig.json",
+    "RumbleConfig": "https://acedragonx.github.io/backend/digimon/cdn/rumble/live/RumbleConfig.json",
     "MainUrl": [
         {
             "TypeName": "GSP",
             "HomePageUrl": "https://discord.gg/vtNnzfSF",
             "GameDownloadUrl": "https://discord.gg/vtNnzfSF",
-            "MainPageUrl": "https://thales201212.github.io/backend//main.html",
-            "BanerUrl": "https://thales201212.github.io/backend/banner.html",
+            "MainPageUrl": "https://acedragonx.github.io/backend//main.html",
+            "BanerUrl": "https://acedragonx.github.io/backend/banner.html",
             "ClientIP": "127.0.0.1",
             "ClientPort": "7605",
             "Unlock": false
